@@ -1,0 +1,8 @@
+C:\Documents and Settings\maciek\Moje dokumenty\Visual Studio 2008\Projects\WalkChat\WalkChat\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\maciek\Moje dokumenty\Visual Studio 2008\Projects\WalkChat\WalkChat\obj\Release\WalkChat.Properties.Resources.resources
+C:\Documents and Settings\maciek\Moje dokumenty\Visual Studio 2008\Projects\WalkChat\WalkChat\obj\Release\WalkChat.csproj.GenerateResource.Cache
+C:\Documents and Settings\maciek\Moje dokumenty\Visual Studio 2008\Projects\WalkChat\WalkChat\bin\Release\WalkChat.exe
+C:\Documents and Settings\maciek\Moje dokumenty\Visual Studio 2008\Projects\WalkChat\WalkChat\bin\Release\WalkChat.pdb
+C:\Documents and Settings\maciek\Moje dokumenty\Visual Studio 2008\Projects\WalkChat\WalkChat\obj\Release\WalkChat.exe
+C:\Documents and Settings\maciek\Moje dokumenty\Visual Studio 2008\Projects\WalkChat\WalkChat\obj\Release\WalkChat.pdb
+C:\Documents and Settings\maciek\Moje dokumenty\Visual Studio 2008\Projects\WalkChat\WalkChat\obj\Release\WalkChat.Form1.resources
