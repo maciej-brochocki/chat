@@ -1,2 +1,2 @@
 # chat
-Chat
+Simple chat application in a local network.
